@@ -1,0 +1,56 @@
+[
+  {
+    "image": "assets/images/bridge.png",
+    "images": [
+      "assets/images/b1.png",
+      "assets/images/b2.jpg",
+      "assets/images/b3.png",
+      "assets/images/b4.png"
+    ]
+  },
+  {
+    "image": "assets/images/fish.jpg",
+    "images": [
+      "assets/images/f1.jpg",
+      "assets/images/f2.png",
+      "assets/images/f3.png",
+      "assets/images/f4.jpg"
+    ]
+  },
+  {
+    "image": "assets/images/nature.jpg",
+    "images": [
+      "assets/images/n1.jpg",
+      "assets/images/n2.jpg",
+      "assets/images/n3.jpg",
+      "assets/images/n4.jpg"
+    ]
+  },
+  {
+    "image": "assets/images/animals.jpg",
+    "images": [
+      "assets/images/a1.jpg",
+      "assets/images/a2.png",
+      "assets/images/a3.png",
+      "assets/images/a4.png"
+    ]
+  },
+  {
+    "image": "assets/images/birds.png",
+    "images": [
+      "assets/images/1b.png",
+      "assets/images/2b.png",
+      "assets/images/3b.png",
+      "assets/images/4b.png"
+    ]
+  },
+  {
+    "image": "assets/images/bikes.jpg",
+    "images": [
+      "assets/images/bike1.jpg",
+      "assets/images/bike2.jpg",
+      "assets/images/bike3.png",
+      "assets/images/bike4.jpg"
+    ]
+  }
+]
